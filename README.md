@@ -1,3 +1,3 @@
-# Headline
+# JY's TIL
 
-> An awesome project.
+> TIL 사이트 입니다. 하루에 배운 것들을 기록합니다.
